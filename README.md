@@ -1,7 +1,8 @@
 # Yash Meshram
 
 🎓 ECE Student | Python • SQL • Data Engineering
-
+    Learning in public. Building in code.
+    
 💻 Currently Building
 
 * Python Projects
@@ -29,6 +30,6 @@ Build practical data projects and continuously improve as an engineer.
 
 📫 Connect
 
-* LinkedIn: linkedin.com/in/yashmeshram16
+* LinkedIn: https://linkedin.com/in/yashmeshram16
 
 
