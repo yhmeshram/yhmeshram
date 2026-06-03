@@ -14,10 +14,14 @@
 * Python
 * Data Modeling
 * ETL Pipelines
-* Data Modeling
-* ETL Pipelines
 * Apache Spark
 * Cloud Technologies
+
+📈 Currently Working On
+
+* SQL
+* Python
+* Data Engineering Fundamentals
 
 🚀 Current Goal
 
@@ -27,8 +31,4 @@ Build practical data projects and continuously improve as an engineer.
 
 * LinkedIn: linkedin.com/in/yashmeshram16
 
-📈 Currently Working On
 
-* SQL
-* Python
-* Data Engineering Fundamentals
