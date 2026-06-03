@@ -1,16 +1,34 @@
-## Hi there 👋
+# Yash Meshram
 
-<!--
-**yhmeshram/yhmeshram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student | Python • SQL • Data Engineering
 
-Here are some ideas to get you started:
+💻 Currently Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python Projects
+* SQL Projects
+* Data Engineering Projects
+
+📚 Learning
+
+* SQL
+* Python
+* Data Modeling
+* ETL Pipelines
+* Data Modeling
+* ETL Pipelines
+* Apache Spark
+* Cloud Technologies
+
+🚀 Current Goal
+
+Build practical data projects and continuously improve as an engineer.
+
+📫 Connect
+
+* LinkedIn: linkedin.com/in/yashmeshram16
+
+📈 Currently Working On
+
+* SQL
+* Python
+* Data Engineering Fundamentals
