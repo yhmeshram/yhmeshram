@@ -31,5 +31,6 @@ Build practical data projects and continuously improve as an engineer.
 📫 Connect
 
 * LinkedIn: https://linkedin.com/in/yashmeshram16
+* X: https://x.com/meshramy21343
 
 
